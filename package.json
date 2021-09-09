@@ -1,0 +1,23 @@
+{
+  "name": "Opd-Met-Test-Drive-Jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add-one.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefannieuwenburg/Opd-Met-Test-Drive-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stefannieuwenburg/Opd-Met-Test-Drive-Jest/issues"
+  },
+  "homepage": "https://github.com/Stefannieuwenburg/Opd-Met-Test-Drive-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
